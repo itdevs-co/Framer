@@ -1,3 +1,4 @@
+
 # Configuration
 
 BIN = $(CURDIR)/node_modules/.bin
